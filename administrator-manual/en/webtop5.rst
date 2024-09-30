@@ -262,9 +262,8 @@ synchronizable resources, as in the case of mobile devices clients (i.e. Android
 Google Android
 --------------
 
-A good, free, Android third-party client is `Opensync <https://deependhulla.com/android-apps/opensync-app>`_.
+A good Android third-party client is `DAVx5 <https://www.davx5.com/>`_.
 
-- install the suggested app from the market;
 - add a new account clicking on :guilabel:`+` key and select :guilabel:`Login with URL and username` method;
 - insert the ``URL`` (``https://<server_name>``), complete username (i.e. *goofy@nethserver.org*) and password;
 - click on the new profile and select the resources you want to synchronize.
