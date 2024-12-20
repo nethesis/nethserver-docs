@@ -1,0 +1,8 @@
+Sphinx==7.2.6
+sphinx-book-theme==1.1.2
+sphinx-copybutton==0.5.2
+sphinx-intl==2.2.0
+sphinxcontrib-devhelp==1.0.5
+sphinxcontrib-htmlhelp==2.0.4
+sphinxcontrib-qthelp==1.0.6
+sphinxcontrib-serializinghtml==1.1.9
